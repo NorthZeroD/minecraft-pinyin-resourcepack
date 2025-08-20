@@ -1,0 +1,4 @@
+item.minecraft.firework_rocket.
+item.minecraft.crossbow.
+item.minecraft.smithing_template.
+block.minecraft.banner.
